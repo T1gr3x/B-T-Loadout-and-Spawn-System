@@ -11,8 +11,10 @@ then In the class Mission Server
 
 	class CustomMission: MissionServer
 	{
-add 
+add
+
 protected bool m_bTLoadoutsStandalone            = true;
+
 
 then the void Starting Equipment
 	
